@@ -167,7 +167,6 @@ class Simulation:
                 self.total_vaccinated += 1
 
 if __name__ == "__main__":
-
     #Set up the initial simulations values
     virus_name = "Malaise"
     reproduction_num = 0.20
